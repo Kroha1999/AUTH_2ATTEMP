@@ -10,6 +10,7 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
 
+import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.FirebaseUser;
 
 
@@ -50,6 +51,7 @@ public class LogedInActivity extends AppCompatActivity {
 
     public void logOut()
     {
+        FirebaseAuth.getInstance().signOut();
         Intent intent = new Intent(this, MainActivity.class);
         intent.putExtra("logout","true");
         startActivity(intent);
