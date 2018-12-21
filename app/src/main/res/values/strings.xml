@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AUTH_2ATTEMP</string>
+    <string name="title_activity_loged_in">LogedInActivity</string>
+</resources>

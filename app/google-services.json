@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "212030301755",
+    "firebase_url": "https://auth-2a885.firebaseio.com",
+    "project_id": "auth-2a885",
+    "storage_bucket": "auth-2a885.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:212030301755:android:8ebdfe66a8e8f247",
+        "android_client_info": {
+          "package_name": "com.hav.bodka.auth_2attemp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "212030301755-oqt5cdk93m71s85nscujbfj70inn7ut9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hav.bodka.auth_2attemp",
+            "certificate_hash": "eb7532d7e1f423eb15cca96ce998d5e8ce12836d"
+          }
+        },
+        {
+          "client_id": "212030301755-j58h537t77nsm6bhbbeudvl7d0fbglli.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASMrEJEFAsvvFk0WqLyPkIUJG3i3GRYyY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "212030301755-j58h537t77nsm6bhbbeudvl7d0fbglli.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
